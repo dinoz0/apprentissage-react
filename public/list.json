@@ -1,0 +1,21 @@
+{
+    "appareils": [
+        {
+            "id": 1	,
+            "name": "Machine à laver",
+            "statut": true 
+        },
+        {
+            "id": 2	,
+            "name": "Frigo",
+            "statut": false  
+        },
+
+        {
+            "id": 3	,
+            "name": "Ordinateur",
+            "statut": true    
+        }
+    ]
+	
+}
